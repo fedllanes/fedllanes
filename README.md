@@ -24,6 +24,7 @@
 
 ## Projects I've worked on (Python)
 
+[Face recognition](https://github.com/fedllanes/facial_recognition_pi)
 Face recognition with a Raspberry Pi Camera: Using a raspberry pi and its camera, you can add people to a dataset that later will be used to recognized those in the dataset in order to operate a door (in this case it's replaced by a LED connected to the output). The system is accessed through an interactive menu through the linux terminal. Programmed using mostly OpenCV, Dbil and Imutils
 
 Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset, designed a convolutional neural network that's able to properly recognize the different traffic signs with good accuracy. Done mostly with Keras. 

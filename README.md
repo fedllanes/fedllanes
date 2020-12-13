@@ -33,6 +33,8 @@ Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset
 
 Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset, designed a convolutional neural network that's able to properly recognize the different traffic signs with good accuracy. Done mostly with Keras. 
 
+[toPNG](https://github.com/fedllanes/topng). A simple python script that turns converts pictures into pngs turning the white elements transparent.
+
 
 ##  My contact information
 <div align="center">

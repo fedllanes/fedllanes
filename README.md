@@ -44,9 +44,7 @@ Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset
 </a>
 </div>
 
-[CV English](https://drive.google.com/file/d/1uM1oZFetzUKT9BzJozX-ArzNZN_zFuc_/view?usp=sharing).
-[CV Español](https://drive.google.com/file/d/1WqGz9edt1oihYlJj77Ti8g_7Gycw7G5H/view?usp=sharing).
-
-
 <br/>
 
+[CV English](https://drive.google.com/file/d/1uM1oZFetzUKT9BzJozX-ArzNZN_zFuc_/view?usp=sharing).
+[CV Español](https://drive.google.com/file/d/1WqGz9edt1oihYlJj77Ti8g_7Gycw7G5H/view?usp=sharing).

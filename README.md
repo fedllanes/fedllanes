@@ -26,12 +26,11 @@
 
 [Face recognition](https://github.com/fedllanes/facial_recognition_pi) with a Raspberry Pi Camera: Using a raspberry pi and its camera, you can add people to a dataset that later will be used to recognized those in the dataset in order to operate a door (in this case it's replaced by a LED connected to the output). The system is accessed through an interactive menu through the linux terminal. Programmed using mostly OpenCV, Dbil and Imutils
 
+[Traffic sign recognition.](https://github.com/fedllanes/traffic/)Working with the German Traffic Sign Benchmark dataset, designed a convolutional neural network that's able to properly recognize the different traffic signs with good accuracy. Done mostly with Keras.
 
 [Whatsapp chat analyzer.](https://github.com/fedllanes/whatssapp) Whatsapp allows you to export your chat into a txt file. Using this file, we can do some fun data analysis to get the most relevant information about our chats.
 
 Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset, we analyze data about flights in the US to get a better picture about how flights are distributed, and we then try to use some machine learning models to predict if a flight will be delayed or not.
-
-Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset, designed a convolutional neural network that's able to properly recognize the different traffic signs with good accuracy. Done mostly with Keras. 
 
 [toPNG](https://github.com/fedllanes/topng). A simple python script that turns converts pictures into pngs turning the white elements transparent.
 

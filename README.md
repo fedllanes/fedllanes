@@ -34,6 +34,10 @@ Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset
 
 [toPNG](https://github.com/fedllanes/topng). A simple python script that turns converts pictures into pngs turning the white elements transparent.
 
+## Projects I've worked on (R)
+
+[Covid Analysis Argentina](https://fedllanes.github.io/R-covid-english). Using the information provided by the argentinian government, an analysis of the covid situation in Argentina, with some interactive maps and several graphs.
+
 
 ##  My contact information
 <div align="center">

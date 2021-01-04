@@ -30,7 +30,7 @@
 
 [Whatsapp chat analyzer.](https://github.com/fedllanes/whatssapp) Whatsapp allows you to export your chat into a txt file. Using this file, we can do some fun data analysis to get the most relevant information about our chats.
 
-Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset, we analyze data about flights in the US to get a better picture about how flights are distributed, and we then try to use some machine learning models to predict if a flight will be delayed or not.
+[Flight delay predictor. ](https://github.com/fedllanes/flight_delay) Using the "2015 Flight Delays and Cancellations" dataset, we analyze data about flights in the US. With this information, we want to be able to predict whether a flight will be delayed or not and on top of that, do some data analysis.
 
 [toPNG](https://github.com/fedllanes/topng). A simple python script that turns converts pictures into pngs turning the white elements transparent.
 

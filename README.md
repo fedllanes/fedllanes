@@ -1,13 +1,17 @@
-### Hi there 👋. I'm Federico. I'm a telecom engineer from Argentina that's trying to break in into the data science universe. 
+### Hi there 👋. I'm Federico. I'm a telecom engineer and Data Scientist. 
  
 <!-- <img align='right' src='https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1' width='200"'> -->
 <img align='right' src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif' width='200"'>
 
 
-- 🇪🇸 I’m currently doing a big data masters in Madrid.
+- 🇪🇸 Living in Madrid and working as a data scientist.
 - 🇦🇷 I was born in the world's most southern city: Ushuaia
 - 🌱 Always trying to improve my programming skills.
 - 👯 Fun fact: I was featured in a french newspaper.
+
+## Profesional life.
+
+* Working as a Data Scientist in Unlimiteck Company Builder in Madrid. Work as a Python programmer developing Machine Learning models to solve Computer Vision problemas, as well as working on the backend to make sure the flow works flawlessly.
 
 ## My academic life.
 
